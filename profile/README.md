@@ -1,11 +1,3 @@
-<p align="center">
-  <img alt="" height="200" width="200" src="https://avatars.githubusercontent.com/u/45088606?s=200&v=4" />
-</p>
-
-<h1 align="center">ElMedievo</h1>
-<h4 align="center">A Minecraft server started in early 2018. Growing and changing through the years!</h4>
-
-
 How to Play
 ---
 
